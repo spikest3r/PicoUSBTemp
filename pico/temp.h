@@ -1,0 +1,1 @@
+float ds18b20_read_temp();
